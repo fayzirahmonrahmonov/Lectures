@@ -63,7 +63,8 @@ Example:
 
   In JavaScript, the `this` keyword refers to an object. Which object depends on how `this` is being invoked (used or called). The thiskeyword     refers to different objects depending on how it is used:
 
-![image](https://github.com/fayzirahmonrahmonov/Lecture4/assets/133873684/42a5fdc4-6f81-46bd-bff4-dfce37e40b72)
+![image](https://github.com/fayzirahmonrahmonov/Lectures/assets/133873684/74cf4d97-2c6d-431a-a4e5-41ba9644a0ee)
+
 
 Example:
 
